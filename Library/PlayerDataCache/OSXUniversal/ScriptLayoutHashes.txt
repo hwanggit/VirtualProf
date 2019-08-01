@@ -437,6 +437,7 @@ e53cc67d84060d628c7f03fc725766d8 Unity.TextMeshPro.dll:TMPro.TMP_FontAsset
 aa8ec01b73feed02ac044cfb342b1aa4 Assembly-CSharp.dll:VRTK.Examples.Menu_Object_Spawner
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:VRTK.SDK_UnitySystem
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:VRTK.SDK_HyperealVRBoundaries
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.NManager
 a8f8f7edccab5ed0317f992befe91e60 Assembly-CSharp.dll:VRTK.Controllables.ArtificialBased.VRTK_ArtificialSlider
 106a6ff24c67003f81c22ea9a780c05f Assembly-CSharp.dll:VRTK.WindowsMR_Camera
 171b07b61d67050a3da231688f4c2950 Assembly-CSharp.dll:Photon.Pun.Demo.Cockpit.AppVersionProperty
@@ -607,6 +608,7 @@ d1bd1b647555113ff25bdbbe8f17434b Assembly-CSharp.dll:VRTK.UnityEventHelper.VRTK_
 02b6c1244bc5e55b0115d0cb0446d94a Assembly-CSharp.dll:Photon.Pun.Demo.Cockpit.Forms.ConnectToRegionUIForm
 059d186d16c60cddeade6b2114edd50f Assembly-CSharp.dll:VRTK.Examples.LightSaber
 5fb387b331fdbff57995526a99c5e2b9 Assembly-CSharp.dll:VRTK.VRTK_DragWorld
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.RotateCube
 8a8845bb67e1b8ca34dc31f6c0f82773 Assembly-CSharp.dll:Photon.Pun.Demo.Cockpit.BoolInputField
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:VRTK.SDK_SteamVRController
 f2dabecc8a6ff0b8dc8afadb4fe8a6d7 Assembly-CSharp.dll:VRTK.UnityEventHelper.VRTK_ControlAnimationGrabAttach_UnityEvents
@@ -615,5 +617,3 @@ f2dabecc8a6ff0b8dc8afadb4fe8a6d7 Assembly-CSharp.dll:VRTK.UnityEventHelper.VRTK_
 f1d2955b217f217e8ae21c91116e86e4 Assembly-CSharp.dll:Photon.Pun.Demo.Cockpit.Forms.UserIdUiForm
 3d9992eb9e8452d2fb21ba548bd4aca1 Assembly-CSharp.dll:Photon.Pun.Demo.Cockpit.CountOfRoomsProperty
 424f3aad821677fab5a6a08fbbf773db Assembly-CSharp.dll:Photon.Pun.Demo.Asteroids.LobbyTopPanel
-486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.NManager
-486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.RotateCube

@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class Alerts : MonoBehaviour {
 
 	public IEnumerator CreateNewAlert(string msg) {
-		yield return SceneManager.LoadSceneAsync("MasterScene");
-		GameObject.FindObjectOfType<AlertObjects> ().AlertText.text = msg;
+		yield return SceneManager.LoadSceneAsync("AlertScene", LoadSceneMode.Additive);
+		FindObjectOfType<AlertObjects> ().AlertText.text = msg;
 	}
 }

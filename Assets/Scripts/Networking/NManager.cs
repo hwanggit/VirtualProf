@@ -27,6 +27,7 @@ public class NManager : MonoBehaviourPunCallbacks {
     public override void OnJoinRandomFailed(short returnCode, string message)
     {
         CreateMe();
+        Debug.Log("Failed to join room");
     }
 
     public void CreateMe()

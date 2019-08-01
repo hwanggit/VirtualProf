@@ -1,33 +1,18 @@
 ﻿<Properties StartupConfiguration="{C5E6F3BF-A48F-25C0-C7B6-279A38094E2F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Networking/NManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UI/Alerts.cs">
     <Files>
       <File FileName="Assets/Scripts/Playfab/Register.cs" Line="23" Column="86" />
-      <File FileName="Assets/Scripts/Playfab/PlayfabAuth.cs" Line="24" Column="1" />
-      <File FileName="Assets/Scripts/UI/MenuOptions.cs" Line="15" Column="73" />
-      <File FileName="Assets/Scripts/UI/Alerts.cs" Line="14" Column="1" />
-      <File FileName="Assets/Scripts/UI/CloseCurrentSceneAsync.cs" Line="10" Column="38" />
+      <File FileName="Assets/Scripts/Playfab/PlayfabAuth.cs" />
+      <File FileName="Assets/Scripts/UI/MenuOptions.cs" />
+      <File FileName="Assets/Scripts/UI/Alerts.cs" Line="10" Column="61" />
+      <File FileName="Assets/Scripts/UI/CloseCurrentSceneAsync.cs" />
       <File FileName="Assets/Scripts/Networking/NManager.cs" Line="30" Column="6" />
-      <File FileName="Assets/Scripts/UI/RotateCube.cs" Line="8" Column="1" />
+      <File FileName="Assets/Scripts/UI/RotateCube.cs" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="VirtualProf2.0" expanded="True" selected="True" />
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="VirtualProf2.0" selected="True" />
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9586f521-1208-47de-b15f-2b4b50469041" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="93c26530-a2df-4d3c-b261-dbddd202fb50" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

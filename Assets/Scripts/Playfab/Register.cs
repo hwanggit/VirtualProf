@@ -4,6 +4,7 @@ using UnityEngine;
 using PlayFab;
 using PlayFab.ClientModels;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Register : MonoBehaviour {
 
@@ -21,6 +22,7 @@ public class Register : MonoBehaviour {
         PlayFabClientAPI.RegisterPlayFabUser(request, result => {
             Alerts a = new Alerts();
             StartCoroutine(a.CreateNewAlert(result.Username + " Has been created!"));
+            SceneManager.LoadSceneAsync("LoginScene");
         }, error => {
             Alerts a = new Alerts();
             StartCoroutine(a.CreateNewAlert(error.ErrorMessage));
